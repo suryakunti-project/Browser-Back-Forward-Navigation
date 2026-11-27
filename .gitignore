@@ -1,0 +1,5 @@
+@"
+webtrack.exe
+*.o
+test*_out.txt
+"@ | Set-Content .gitignore
